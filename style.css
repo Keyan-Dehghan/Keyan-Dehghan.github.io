@@ -2,7 +2,6 @@
 
 body {
     font-family: Arial, sans-serif;
-    line-height: 1.6;
     margin: 0;
     padding: 0;
     background-color: #f9f9f9;
@@ -10,14 +9,27 @@ body {
 }
 
 header, footer {
-    background-color: #007ACC;
+    background-color: #007ACC; /* blue bar */
     color: white;
-    padding: 1rem;
     text-align: center;
+    padding: 1rem;
 }
 
 main {
     padding: 2rem;
     max-width: 800px;
     margin: 0 auto;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 1rem auto;
+    border: 3px solid #007ACC;
 }
