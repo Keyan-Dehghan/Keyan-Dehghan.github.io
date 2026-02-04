@@ -48,7 +48,7 @@ git push -u origin main
    - Branch: main
    - Folder: / (root)
 3. Click **Save**.
-4. Your site will be published at: https://Keyan-Dehghan.github.io/Keyan-Dehghan/
+4. Your site will be published at: https://Keyan-Dehghan.github.io
 
 
 --- **Using GitHub CLI:**
